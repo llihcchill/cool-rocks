@@ -1,0 +1,61 @@
+        * {
+            box-sizing: border-box;
+        }
+
+        .rock-images {
+            width: 121px;
+            height: 121px;
+            border-top: 2px solid black;
+            border-bottom: 2px solid black;
+            border-left: 2px solid black;
+            margin: 0vw 0vw 0vw 0vw;
+        }
+
+        .header-text {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 25px;
+            font: bold;
+            margin: 0vw 36vw 0vw 0vw;
+        }
+
+        .rock-text {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 17px;
+            margin: 0vw 36vw 0vw 0vw;
+        }
+
+        h1 {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: center;
+        }
+        h2 {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: center;
+        }
+
+        .column {
+            margin-bottom: 1vw;
+            float: right;
+        }
+
+        #text-line-1 {
+            border-right: 2px solid black;
+        }
+
+        #text-line-2 {
+            border-right: 2px solid black;
+        }
+
+        #text-line-3 {
+            border-right: 2px solid black;
+        }
+
+        #text-line-4 {
+            border-bottom: 2px solid black;
+            border-right: 2px solid black;
+        }
+
+        #text-line-header {
+            border-top: 2px solid black;
+            border-right: 2px solid black;
+        }

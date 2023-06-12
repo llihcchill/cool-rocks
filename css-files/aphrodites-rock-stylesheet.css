@@ -1,0 +1,34 @@
+.a-absolute {
+    position: absolute;
+}
+
+.main-page-btn {
+    position: absolute;
+    size: 25px 25px;
+    width: 5vw;
+    height: 5vw;
+}
+
+.text {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 0% 0% 0% 0%;
+}
+
+.header-text {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 1vw 0vw 1vw 0vw;
+}
+
+.aphrodites-rock-positioning {
+    text-align: center;
+}
+
+.aphrodites-rock-border {
+    border: 2px solid black;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}

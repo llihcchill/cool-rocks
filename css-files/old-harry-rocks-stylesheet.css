@@ -1,0 +1,41 @@
+.a-absolute {
+    position: absolute;
+}
+
+.main-page-btn {
+    position: absolute;
+    size: 25px 25px;
+    width: 5vw;
+    height: 5vw;
+}
+
+.text {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 0% 0% 0% 0%;
+}
+
+.header-text {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 1vw 0vw 1vw 0vw;
+}
+
+.old-harry-rocks-positioning {
+    text-align: center;
+}
+
+.old-harry-rocks-border {
+    border: 2px solid black;
+    width: 1320;
+    height: 780;
+}
+
+#old-harry-rocks-image {
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
